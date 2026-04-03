@@ -19,10 +19,10 @@ A simple To-Do web application built using Flask and SQLite.
 ## Screenshots
 
 ### Main Page
-![Main Page](https://github.com/user-attachments/assets/placeholder-main.png)
+![Main Page](screenshots/main.png)
 
 ### Edit Page
-![Edit Page](https://github.com/user-attachments/assets/placeholder-edit.png)
+![Edit Page](screenshots/edit.png)
 
 ## Tech Stack
 
