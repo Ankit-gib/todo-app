@@ -4,6 +4,7 @@ A simple To-Do web application built using Flask and SQLite.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-3.x-lightgrey?logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-orange?logo=python)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-green?logo=sqlite)
 
 ## Features
